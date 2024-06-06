@@ -1,4 +1,4 @@
-This repo uses Mistral trained model for the response and it can run on CPU tho there will be good speed with GPU.
+This repo uses Mistral trained model for the response and it can run on CPU.
 
 Downlaod the model: wget https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/resolve/main/mistral-7b-instruct-v0.1.Q4_K_M.gguf
 
